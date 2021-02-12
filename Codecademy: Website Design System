@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href ="./styles.css" type= "text/css" rel="stylesheet">'<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+    </head>
+  <body>
+    <div>
+      <h1 id="title">My Style Sheet</h1>
+      <!--Colours section -->
+      <div class="section-box">
+        <h2> Colors </h2>
+        <!-- First Colour -->
+        <div class="color-box color-blue">
+          <p> Navy Blue </p>
+          <p>#1D3E7A</p>
+          <p> Main base colour</p>
+          </div>
+          <!-- Second Color -->
+          <div class="color-box color-liblue">
+            <p> Light Blue</p>
+            <p>#87B0FB</p>
+            <p> Accent colour</p>
+            </div>
+            <!-- Third Colour -->
+            <div class="color-box color-medblue">
+              <p> Medium Blue </p>
+              <p>#3065C7</p>
+              <p>Can be used for some sections</p>
+              </div>
+              </div>
+              <br>
+              <!-- Fonts -->
+              <div class="flex-section-box">
+                <h2> Fonts</h2>
+                <div class ="font-container">
+                  <!-- First Font -->
+                  <div class="font-panel">
+                    <p class="first-font">Roboto</p>
+                    <p class="robo-font">Let it go ... Repeat it again</p>
+                    <p class="bold robo-font">Let it go ... Repeat it again</p>
+                    <p class=" italic robo-font">Let it go ... Repeat it again</p>
+                    </div>
+                    <!-- Second Font -->
+                    <div class="font-panel">
+                      <p>Montserrat</p>
+                      <p class="monts-font">Let it go ... Repeat it again</p>
+                      <p class="bold monts-font">Let it go ... Repeat it again</p>
+                      <p class="italic monts-font">Let it go ... Repeat it again</p>
+                      </div>
+                      <br>
+
+                      <!-- Text Styles -->
+                      <div class="text-container">
+                        <h2>Text Styles</h2>
+                        <div class="text-panel">
+                        <!-- Text Style #1-->
+                        <div class="text-box">
+                          <p>H1: Main page heading</p>
+                          <p>font-family: Roboto</p>
+                          <p>font-size: 22px</p>
+                          </div>
+                          <!--Text Style #2 -->
+                          <div class="text-box">
+                          <p>H2: Subheading</p>
+                          <p> font-family: Roboto </p>
+                          <p> font-size: 18px;</p>
+                          </div>
+
+                          <!-- Text Style #3 -->
+                          <div class="text-box">
+                          <p>P: Paragraphs</p>
+                          <p> font-family: Montserrat</p>
+                          <p> font-size: 16px </p> 
+                          </div>
+                          </div>
+                        </div>
+                        </div>
+
+                  </div>
+  
+      </div>
+    </body>
+  </html>
